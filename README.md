@@ -2,7 +2,7 @@
 
 Soy un apasionado del análisis de datos y actualmente estoy estudiando programación frontend. Me encanta trabajar con datos y crear visualizaciones que cuenten una historia. 
 
-[] (https://github.com/Carlos-Lozano-A/Carlos-Lozano-A/blob/main/perfil.jpg)
+![] (https://github.com/Carlos-Lozano-A/Carlos-Lozano-A/blob/main/perfil.jpg)
 ## 🚀 Habilidades
 - **Lenguajes de Programación:**
   - Python
